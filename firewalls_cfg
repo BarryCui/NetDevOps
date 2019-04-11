@@ -1,0 +1,50 @@
+devices:
+  - vFortiOS1:
+    hostname: FG3H1E-hq
+    mgt_ip: 10.0.x.x
+    vendor: FortiOS
+    username: admin
+    password: xxxxxx
+
+  - vFortiOS2:
+    hostname: FG201E-Songjiang
+    mgt_ip: 10.1.x.x
+    vendor: FortiOS
+    username: admin
+    password: xxxxxx
+
+  - vFortiOS3:
+    hostname: FGT60D-Paris
+    mgt_ip: 10.2.x.x
+    vendor: FortiOS
+    username: admin
+    password: xxxxxx
+
+  - vFortiOS4:
+    hostname: FGT60D-Haimen
+    mgt_ip: 10.3.x.x
+    vendor: FortiOS
+    username: admin
+    password: xxxxxx
+
+  - vFortiOS5:
+    hostname: FGT60D-Beijing
+    mgt_ip: 10.4.x.x
+    vendor: FortiOS
+    username: admin
+    password: xxxxxx
+
+  - vFortiOS6:
+    hostname: FG101E-Minhang
+    mgt_ip: 10.6.x.x
+    vendor: FortiOS
+    username: admin
+    password: xxxxxx
+
+  - vFortiOS7:
+    hostname: FGT60D-Chengdu
+    mgt_ip: 10.8.x.x
+    vendor: FortiOS
+    username: admin
+    password: xxxxxx
+

@@ -1,0 +1,120 @@
+devices:
+  - vIOS1:
+    hostname: ZH_HQS_SW2960X_01
+    mgt_ip: 10.0.10.1
+    vendor: Cisco
+    OS_type: IOS
+    username: xxxxxx
+    password: xxxxxx
+
+  - vIOS2:
+    hostname: ZH_HQS_SW2960X_02
+    mgt_ip: 10.0.10.2
+    vendor: Cisco
+    OS_type: IOS
+    username: xxxxxx
+    password: xxxxxx 
+  
+  - vIOS3:
+    hostname: ZH_HQS_SW2960X_03
+    mgt_ip: 10.0.10.3
+    vendor: Cisco
+    OS_type: IOS
+    username: xxxxxx
+    password: xxxxxx
+
+  - vIOS4:
+    hostname: ZH_HQN_SW2960X_04
+    mgt_ip: 10.0.10.4
+    vendor: Cisco
+    OS_type: IOS
+    username: xxxxxx
+    password: xxxxxx
+
+  - vIOS5:
+    hostname: ZH_HQN_SW2960X_05
+    mgt_ip: 10.0.10.5
+    vendor: Cisco
+    OS_type: IOS
+    username: xxxxxx
+    password: xxxxxx
+
+  - vIOS6: 
+    hostname: ZH_HQN_SW2960X_06
+    mgt_ip: 10.0.10.6
+    vendor: Cisco
+    OS_type: IOS
+    username: xxxxxx
+    password: xxxxxx
+
+  - vIOS7:
+    hostname: ZH_HQN_SW2960X_07
+    mgt_ip: 10.0.10.7
+    vendor: Cisco
+    OS_type: IOS
+    username: xxxxxx
+    password: xxxxxx
+
+  - vIOS8:
+    hostname: ZH_HQN_SW2960_08
+    mgt_ip: 10.0.10.8
+    vendor: Cisco
+    OS_type: IOS
+    username: xxxxxx
+    password: xxxxxx
+
+  - vIOS9:
+    hostname: ZH_ZHD_SW2960_09
+    mgt_ip: 10.0.10.9
+    vendor: Cisco
+    OS_type: IOS
+    username: xxxxxx
+    password: xxxxxx
+
+  - vIOS10:
+    hostname: ZH_HQSVR_SW2960_10
+    mgt_ip: 10.0.10.10
+    vendor: Cisco
+    OS_type: IOS
+    username: xxxxxx
+    password: xxxxxx
+
+  - vIOS11:
+    hostname: ZH_ZHD_SW2960_11
+    mgt_ip: 10.0.10.11
+    vendor: Cisco
+    OS_type: IOS
+    username: xxxxxx
+    password: xxxxxx
+
+  - vIOS12:
+    hostname: ZH_ZHD_SW2960_12
+    mgt_ip: 10.0.10.12
+    vendor: Cisco
+    OS_type: IOS
+    username: xxxxxx
+    password: xxxxxx
+
+  - vIOS13:
+    hostname: ZH_Core_3750X
+    mgt_ip: 10.0.10.254
+    vendor: Cisco
+    OS_type: IOS
+    username: xxxxxx
+    password: xxxxxx
+
+  - vIOS14:
+    hostname: ZH_GC_3750_01
+    mgt_ip: 10.1.10.254
+    vendor: Cisco
+    OS_type: IOS
+    username: xxxxxx
+    password: xxxxxx
+
+  - vQuidway1:
+    hostname: NTxxxxxx-SWITCH5700
+    mgt_ip: 10.3.0.253
+    vendor: HUAWEI
+    OS_type: Quidway
+    username: xxxxxx
+    password: xxxxxx
