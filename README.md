@@ -52,3 +52,8 @@
 #
 # 程序运行结果说明：
 # 程序会自动把配置文件备份到服务器的/home/NetBackup目录下
+#
+#
+#备份方式说明：
+#交换机备份是使用pexpect模块以及NetDevices模块进行备份操作
+#防火墙备份是使用paramiko模块进行备份操作，不依赖NetDevices模块
