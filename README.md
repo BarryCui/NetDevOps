@@ -1,18 +1,16 @@
-#网络设备配置备份程序
-# 
-#
+# 网络设备配置备份程序
+
 # 环境要求：
-# python3.5以上
-# 任何版本linux系统
-# 
-# 
-# 初始配置：
-# 1. 创建python3虚拟开发环境
-# python3 -m venv py3
-# 2. 进入虚拟环境
-# source ./py3/bin/activate
-# 3. 安装所需模块
-# pip install --upgrade pip
+- python3.5以上
+- 任意版本linux系统
+
+# 初始化设置：
+1. git clone本项目，然后进入目录，创建python3虚拟开发环境
+python3 -m venv py3
+2. 进入虚拟环境
+source ./py3/bin/activate
+3. 安装所需模块
+pip install --upgrade pip
 # pip install pexpect
 # pip install pyaml
 # pip install gitpython
