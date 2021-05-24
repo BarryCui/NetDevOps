@@ -10,7 +10,7 @@
 目前支持备份：cisco ios交换机设备，华为quidway系列交换机设备，飞塔fortigate防火墙设备。
 
 ## 程序目录结构说明：
-├── firewalls_cfg 用于存放防火墙的配置信息(账号、密码、ip、主机名、操作系统) \\
+├── firewalls_cfg 用于存放防火墙的配置信息(账号、密码、ip、主机名、操作系统) 
 ├── fw_cfg_backup.py 备份防火墙的主程序
 ├── requirements.txt python库
 ├── NetDevices 模块目录
