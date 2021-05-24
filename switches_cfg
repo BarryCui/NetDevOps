@@ -1,120 +1,128 @@
 devices:
   - vIOS1:
-    hostname: ZH_HQS_SW2960X_01
-    mgt_ip: 10.0.10.1
+    hostname: <real-hostname>
+    mgt_ip: <management-ip>
     vendor: Cisco
     OS_type: IOS
-    username: xxxxxx
-    password: xxxxxx
+    username: <username>
+    password: <password>
 
   - vIOS2:
-    hostname: ZH_HQS_SW2960X_02
-    mgt_ip: 10.0.10.2
+    hostname: <real-hostname>
+    mgt_ip: <management-ip>
     vendor: Cisco
     OS_type: IOS
-    username: xxxxxx
-    password: xxxxxx 
+    username: <username>
+    password: <password>
   
   - vIOS3:
-    hostname: ZH_HQS_SW2960X_03
-    mgt_ip: 10.0.10.3
+    hostname: <real-hostname>
+    mgt_ip: <management-ip>
     vendor: Cisco
     OS_type: IOS
-    username: xxxxxx
-    password: xxxxxx
+    username: <username>
+    password: <password>
 
   - vIOS4:
-    hostname: ZH_HQN_SW2960X_04
-    mgt_ip: 10.0.10.4
+    hostname: <real-hostname>
+    mgt_ip: <management-ip>
     vendor: Cisco
     OS_type: IOS
-    username: xxxxxx
-    password: xxxxxx
+    username: <username>
+    password: <password>
 
   - vIOS5:
-    hostname: ZH_HQN_SW2960X_05
-    mgt_ip: 10.0.10.5
+    hostname: <real-hostname>
+    mgt_ip: <management-ip>
     vendor: Cisco
     OS_type: IOS
-    username: xxxxxx
-    password: xxxxxx
+    username: <username>
+    password: <password>
 
   - vIOS6: 
-    hostname: ZH_HQN_SW2960X_06
-    mgt_ip: 10.0.10.6
+    hostname: <real-hostname>
+    mgt_ip: <management-ip>
     vendor: Cisco
     OS_type: IOS
-    username: xxxxxx
-    password: xxxxxx
+    username: <username>
+    password: <password>
 
   - vIOS7:
-    hostname: ZH_HQN_SW2960X_07
-    mgt_ip: 10.0.10.7
+    hostname: <real-hostname>
+    mgt_ip: <management-ip>
     vendor: Cisco
     OS_type: IOS
-    username: xxxxxx
-    password: xxxxxx
+    username: <username>
+    password: <password>
 
   - vIOS8:
-    hostname: ZH_HQN_SW2960_08
-    mgt_ip: 10.0.10.8
+    hostname: <real-hostname>
+    mgt_ip: <management-ip>
     vendor: Cisco
     OS_type: IOS
-    username: xxxxxx
-    password: xxxxxx
+    username: <username>
+    password: <password>
 
   - vIOS9:
-    hostname: ZH_ZHD_SW2960_09
-    mgt_ip: 10.0.10.9
+    hostname: <real-hostname>
+    mgt_ip: <management-ip>
     vendor: Cisco
     OS_type: IOS
-    username: xxxxxx
-    password: xxxxxx
+    username: <username>
+    password: <password>
 
   - vIOS10:
-    hostname: ZH_HQSVR_SW2960_10
-    mgt_ip: 10.0.10.10
+    hostname: <real-hostname>
+    mgt_ip: <management-ip>
     vendor: Cisco
     OS_type: IOS
-    username: xxxxxx
-    password: xxxxxx
+    username: <username>
+    password: <password>
 
   - vIOS11:
-    hostname: ZH_ZHD_SW2960_11
-    mgt_ip: 10.0.10.11
+    hostname: <real-hostname>
+    mgt_ip: <management-ip>
     vendor: Cisco
     OS_type: IOS
-    username: xxxxxx
-    password: xxxxxx
+    username: <username>
+    password: <password>
 
   - vIOS12:
-    hostname: ZH_ZHD_SW2960_12
-    mgt_ip: 10.0.10.12
+    hostname: <real-hostname>
+    mgt_ip: <management-ip>
     vendor: Cisco
     OS_type: IOS
-    username: xxxxxx
-    password: xxxxxx
+    username: <username>
+    password: <password>
 
   - vIOS13:
-    hostname: ZH_Core_3750X
-    mgt_ip: 10.0.10.254
+    hostname: <real-hostname>
+    mgt_ip: <management-ip>
     vendor: Cisco
     OS_type: IOS
-    username: xxxxxx
-    password: xxxxxx
+    username: <username>
+    password: <password>
 
   - vIOS14:
-    hostname: ZH_GC_3750_01
-    mgt_ip: 10.1.10.254
+    hostname: <real-hostname>
+    mgt_ip: <management-ip>
     vendor: Cisco
     OS_type: IOS
-    username: xxxxxx
-    password: xxxxxx
+    username: <username>
+    password: <password>
+
+  - vIOS15:
+    hostname: <real-hostname>
+    mgt_ip: <management-ip>
+    vendor: Cisco
+    OS_type: IOS
+    username: <username>
+    password: <password>
 
   - vQuidway1:
-    hostname: NTxxxxxx-SWITCH5700
-    mgt_ip: 10.3.0.253
+    hostname: <real-hostname>
+    mgt_ip: <management-ip>
     vendor: HUAWEI
     OS_type: Quidway
-    username: xxxxxx
-    password: xxxxxx
+    username: <username>
+    password: <password>
