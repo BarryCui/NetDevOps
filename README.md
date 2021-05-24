@@ -16,9 +16,9 @@
 - NetDevices 模块目录
     - Device.py 所有模块的父类
     - FortiOS.py 该文件用于测试，不作实际用途
-    - \__init__.py 模块入口
+    - \_\_init\_\_.py 模块入口
     - IOS.py Cisco交换机子类
-    - \__pycache__ 缓存目录
+    - \_\_pycache\_\_ 缓存目录
     - Quidway.py 华为交换机子类
     - test.py 该文件用于测试，不作实际用途
 - README.md 说明文件
