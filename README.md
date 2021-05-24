@@ -10,25 +10,20 @@
 目前支持备份：cisco ios交换机设备，华为quidway系列交换机设备，飞塔fortigate防火墙设备。
 
 ## 程序目录结构说明：
-├── firewalls_cfg 用于存放防火墙的配置信息(账号、密码、ip、主机名、操作系统) 
-├── fw_cfg_backup.py 备份防火墙的主程序
-├── requirements.txt python库
-├── NetDevices 模块目录
-│   ├── Device.py 所有模块的父类
-│   ├── FortiOS.py 该文件用于测试，不作实际用途
-│   ├── __init__.py 模块入口
-│   ├── IOS.py Cisco交换机子类
-│   ├── __pycache__ 缓存目录
-│   │   ├── Device.cpython-35.pyc
-│   │   ├── FortiOS.cpython-35.pyc
-│   │   ├── __init__.cpython-35.pyc
-│   │   ├── IOS.cpython-35.pyc
-│   │   └── Quidway.cpython-35.pyc
-│   ├── Quidway.py 华为交换机子类
-│   └── test.py 该文件用于测试，不作实际用途
-├── README.md 说明文件
-├── sw_cfg_backup.py 备份交换机的主程序
-└── switches_cfg 用于存放交换机的配置信息(账号、密码、ip、主机名、操作系统)
+- firewalls_cfg 用于存放防火墙的配置信息(账号、密码、ip、主机名、操作系统) 
+- fw_cfg_backup.py 备份防火墙的主程序
+- requirements.txt python库
+- NetDevices 模块目录
+    - Device.py 所有模块的父类
+    - FortiOS.py 该文件用于测试，不作实际用途
+    - __init__.py 模块入口
+    - IOS.py Cisco交换机子类
+    - __pycache__ 缓存目录
+    - Quidway.py 华为交换机子类
+    - test.py 该文件用于测试，不作实际用途
+- README.md 说明文件
+- sw_cfg_backup.py 备份交换机的主程序
+- switches_cfg 用于存放交换机的配置信息(账号、密码、ip、主机名、操作系统)
 
 ## 环境要求：
 - python3.5以上
